@@ -9,7 +9,7 @@ These Bash scripts provide a convenient way to automate common Git tasks. There 
 
 1. Clone this repository or download the script files to your local machine.
 
-2. Make the scripts executable:
+2. Make the script executable:
 
 ```bash
 chmod +x setup.sh
